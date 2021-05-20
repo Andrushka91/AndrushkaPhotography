@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { TopBarComponent } from './components/top-bar/top-bar.component';
 import { ContainerPhotosComponent } from './components/container-photos/container-photos.component';
+import { SearchBarComponent } from './components/search-bar/search-bar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     FooterComponent,
     TopBarComponent,
-    ContainerPhotosComponent
+    ContainerPhotosComponent,
+    SearchBarComponent
   ],
   imports: [
     BrowserModule
