@@ -5,3 +5,7 @@
 .item:hover{
     filter:brightness(80%);
 }
+
+.padding {
+    padding: 10px !important;
+ }
