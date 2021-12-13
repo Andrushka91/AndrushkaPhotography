@@ -9,7 +9,7 @@ export class AppComponent implements OnInit {
   ngOnInit(): void {
     $(window).on('load', function () {
       $('body').addClass('loaded');
-      $(this).attr('data-image-src','assets/img/hero.jpg');
+      $(this).attr('data-image-src','assets/img/armenia_aragats_hayk.jpg');
     });
   }
   title = 'photography';
