@@ -6,7 +6,8 @@ import { FooterComponent } from './components/footer/footer.component';
 import { TopBarComponent } from './components/top-bar/top-bar.component';
 import { ContainerPhotosComponent } from './components/container-photos/container-photos.component';
 import { SearchComponent } from './components/search/search.component';
-
+ 
+ 
 @NgModule({
   declarations: [
     AppComponent,

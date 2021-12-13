@@ -9,3 +9,6 @@
 .padding {
     padding: 10px !important;
  }
+ .content{
+    display:inline-block; 
+ }

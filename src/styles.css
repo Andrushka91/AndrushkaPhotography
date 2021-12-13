@@ -6,6 +6,10 @@ TemplateMo 556 Catalog-Z
 https://templatemo.com/tm-556-catalog-z
 
 */
+
+body{
+    background-color: rgba(0, 0, 0, 0.979);
+}
 #loader-wrapper {
     position: fixed;
     top: 0;
@@ -201,7 +205,7 @@ a:hover { color:#009999; }
 .tm-text-primary { color: #009999; }
 .tm-text-secondary { color: #CC6699; }
 a.tm-text-primary:hover { color:#666666; }
-.tm-bg-gray { background-color: #EEEEEE; }
+.tm-bg-gray { background-color: #000000; }
 .tm-input-paging {
     width: 40px;
     border-radius: 0;
